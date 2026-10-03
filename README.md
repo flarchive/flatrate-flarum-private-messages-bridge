@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of flatrate/flarum-private-messages-bridge.** Not for installation: use [Packagist](https://packagist.org/packages/flatrate/flarum-private-messages-bridge) or the [upstream repository](https://github.com/mrkcntrmn/flatrate-flarum-private-messages-bridge).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.8.19`
+**10** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.8.19`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-09-03 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.0) |
+| `v1.0.0-rc.1` | 2026-09-03 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.0-rc.1) |
+| `v1.0.0-rc.2` | 2026-09-03 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.0-rc.2) |
+| `v1.0.1` | 2026-09-04 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.1) |
+| `v1.0.1-rc.1` | 2026-09-04 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.1-rc.1) |
+| `v1.0.2` | 2026-09-04 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.2) |
+| `v1.0.2-rc.1` | 2026-09-04 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.2-rc.1) |
+| `v1.0.3` | 2026-09-04 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.3) |
+| `v1.0.3-rc.1` | 2026-09-04 | `^1.8.5` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.0.3-rc.1) |
+| `v1.1.0` | 2026-09-27 | `^1.8.19` | [Browse](https://github.com/flarchive/flatrate-flarum-private-messages-bridge/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/flatrate-flarum-private-messages-bridge.json](https://github.com/flarchive/archive-index/blob/main/packages/flatrate-flarum-private-messages-bridge.json)
 
